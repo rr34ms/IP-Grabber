@@ -1,4 +1,7 @@
 # IP-Grabber
+<div align="center">
+<img src="https://media.discordapp.net/attachments/1090283036324671598/1126507913469501460/password-gen.png">
+<hr>
 Grab the  Internet &amp; Local ip with a Python programm.
 ![image](https://github.com/ttameo/IP-Grabber/assets/113922183/c0e5dae7-353b-42e9-b95e-3b5a7f6f393c)
 
@@ -30,3 +33,4 @@ Open folder and it's completed
 
 [![Discord](https://discord.gg/mCxeF7RNMx)
 [Telegram](https://t.me/TSH0P)
+ </div><hr>
