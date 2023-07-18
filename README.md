@@ -9,9 +9,9 @@ Create a webhook discord :
 
 Next, install python if it's not already done. (https://python.org/)
 Open a cmd and type :
-``
+```
 pip install fade
-``
+```
 
 # Finish 
 You can now use the tool.
@@ -27,3 +27,6 @@ If you want to convert your file to an executable, follow these instructions :
  -> Convert .py to .exe
 
 Open folder and it's completed
+
+[![Discord](https://discord.gg/mCxeF7RNMx)
+[Telegram](https://t.me/TSH0P)
