@@ -1,5 +1,6 @@
 # IP-Grabber
 Grab the  Internet &amp; Local ip with a Python programm.
+![image](https://github.com/ttameo/IP-Grabber/assets/113922183/c0e5dae7-353b-42e9-b95e-3b5a7f6f393c)
 
 # Installation
 
