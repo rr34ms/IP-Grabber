@@ -6,7 +6,7 @@ Grab the  Internet &amp; Local ip with a Python programm.
 Create a webhook discord : 
 ![image](https://github.com/ttameo/IP-Grabber/assets/113922183/50b11c8f-8fd3-41b3-aebe-ae125ba50d29)
 
-Next, install python if it's not already done. (https://python.org/)
+Next, install python if it's not already done. (https://python.org/)\n
 Open a cmd and type :
 ``
 pip install fade
