@@ -26,7 +26,9 @@ https://www.youtube.com/watch?v=xJAM8_Lx5mY
 This project is only for educational purposes I am in no way responsible for your actions.
 
 # Donations
-For ![image](https://github.com/ttameo/IP-Grabber/assets/113922183/84ed5b44-6065-4cdb-aeeb-f091e934f15b) donations: bc1q93pyrnzy5m24rftu2ymz524h7a0869szhj9q0u
+For BTC donations: bc1q93pyrnzy5m24rftu2ymz524h7a0869szhj9q0u
+For ETH donations: 0xF056003555F0c736ec3b415Fa37c4B076a4A9452
+For LTC donations: LXiBSiaf7kEBBfpWiepLBnqf2XGtHGtXjq
 
 [![Discord](https://discord.gg/mCxeF7RNMx)
 [Telegram](https://t.me/TSH0P)
