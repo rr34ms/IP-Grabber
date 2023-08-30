@@ -20,7 +20,7 @@ pip install fade
 You can now use the tool.
 
 If you want to convert your file to an executable, watch this video :
-(https://www.youtube.com/watch?v=xJAM8_Lx5mY)
+https://www.youtube.com/watch?v=xJAM8_Lx5mY
 
 [![Discord](https://discord.gg/mCxeF7RNMx)
 [Telegram](https://t.me/TSH0P)
