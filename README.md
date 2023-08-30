@@ -25,6 +25,9 @@ https://www.youtube.com/watch?v=xJAM8_Lx5mY
 # Noticed
 This project is only for educational purposes I am in no way responsible for your actions.
 
+# Donations
+For https://cdn.discordapp.com/emojis/1122448094395637841.webp?size=44&quality=lossless donations: bc1q93pyrnzy5m24rftu2ymz524h7a0869szhj9q0u
+
 [![Discord](https://discord.gg/mCxeF7RNMx)
 [Telegram](https://t.me/TSH0P)
  </div><hr>
