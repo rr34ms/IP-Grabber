@@ -19,17 +19,8 @@ pip install fade
 # Finish 
 You can now use the tool.
 
-If you want to convert your file to an executable, follow these instructions :
- -> Install auto-py-to-exe :
-      -> Open a cmd (Win + R -> cmd)
-      -> Type 'pip install auto-py-to-exe'
- -> Open auto-py-to-exe :
-      -> In your cmd, just type : 'auto-py-to-exe'
- -> A window will open:
-      -> Select your file and select 'one file'
- -> Convert .py to .exe
-
-Open folder and it's completed
+If you want to convert your file to an executable, watch this video :
+(https://www.youtube.com/watch?v=xJAM8_Lx5mY)
 
 [![Discord](https://discord.gg/mCxeF7RNMx)
 [Telegram](https://t.me/TSH0P)
