@@ -22,6 +22,9 @@ You can now use the tool.
 If you want to convert your file to an executable, watch this video :
 https://www.youtube.com/watch?v=xJAM8_Lx5mY
 
+# Noticed
+This project is only for educational purposes I am in no way responsible for your actions.
+
 [![Discord](https://discord.gg/mCxeF7RNMx)
 [Telegram](https://t.me/TSH0P)
  </div><hr>
