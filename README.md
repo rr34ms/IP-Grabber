@@ -32,6 +32,6 @@ For ETH donations: 0xF056003555F0c736ec3b415Fa37c4B076a4A9452
 
 For LTC donations: LXiBSiaf7kEBBfpWiepLBnqf2XGtHGtXjq
 
-[[Discord](https://discord.gg/mCxeF7RNMx)
+[Discord](https://discord.gg/mCxeF7RNMx)
 [Telegram](https://t.me/TSH0P)
  </div><hr>
